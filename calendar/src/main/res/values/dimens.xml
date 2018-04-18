@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--日历控件-->
+    <dimen name="calendar_week_padding_bottom">20dp</dimen>
+    <dimen name="calendar_month_padding_top">25dp</dimen>
+    <dimen name="calendar_month_padding_bottom">20dp</dimen>
+    <dimen name="calendar_text_month">16sp</dimen>
+    <dimen name="calendar_text_week">16sp</dimen>
+    <dimen name="calendar_text_date">14sp</dimen>
+    <dimen name="calendar_margin_circle">4dp</dimen>
+    <dimen name="calendar_price_margin_circle">2dp</dimen>
+</resources>

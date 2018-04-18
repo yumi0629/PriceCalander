@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--日历控件-->
+    <color name="transparent">#00000000</color>
+    <color name="price_calendar_price_text_active">#ffff8a00</color>
+    <color name="calendar_bg">#ffffff</color>
+    <color name="calendar_today_bg">#ff778088</color>
+    <color name="calendar_divider">#00000000</color>
+    <color name="calendar_selected_day_bg">#FF8C69</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#FFCDBE</color>
+    <color name="calendar_text_title">#FF6347</color>
+    <color name="calendar_text_today">#1C86EE</color>
+    <color name="calendar_text_inactive">#E2E2E2</color>
+    <color name="calendar_text_active">#ff6E6E6E</color>
+    <color name="calendar_text_week_head">#FF8C69</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#ffc2c9cf</color>
+    <color name="calendar_text_highlighted">#ff778088</color>
+</resources>

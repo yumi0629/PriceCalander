@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">calendar</string>
+
+    <!-- 日历控件 -->
+    <string name="day_name_format">EEE</string>
+    <string name="month_name_format">yyyy年MM月</string>
+    <!--<string name="month_name_format">yyyy MMMM</string>-->
+    <string name="calendar_today">今</string>
+    <string name="calendar_date_can_not_be_selected">该日期不可选择</string>
+</resources>
